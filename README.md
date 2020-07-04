@@ -1,4 +1,4 @@
-# michaelbrave
+# Michael Brave
 
 👋 Hello there 👋
 
