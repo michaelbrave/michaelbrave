@@ -1,7 +1,6 @@
 # Michael Brave
-<!--
-![animated](https://user-images.githubusercontent.com/887639/87050499-56aeb200-c1cc-11ea-8c2c-25d6a5ba82fe.gif)
--->
+<img src="https://raw.githubusercontent.com/michaelbrave/michaelbrave/master/gh-header-image-MikeBrave.png" alt="banner that says Mike Brave - Developer">
+  
 👋 Hello there 👋
 
     🔧 I’m currently working on - a simple game engine from scratch
