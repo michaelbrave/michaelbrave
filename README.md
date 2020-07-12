@@ -14,7 +14,7 @@
     🤝 I hope we can be friends 
 
 <p align="center">
-    <a href="michaelbrave@outlook.com"><img src="https://img.shields.io/badge/Email-michaelbrave@outlook.com-lightgrey" alt="Email"></a>
+    <a href="mailto:michaelbrave@outlook.com"><img src="https://img.shields.io/badge/Email-michaelbrave@outlook.com-lightgrey" alt="Email"></a>
 	<a href="https://github.com/michaelbrave"><img src="https://img.shields.io/github/followers/michaelbrave.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/somebravedude"><img src="https://img.shields.io/twitter/follow/somebravedude?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/mikebrave"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
