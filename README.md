@@ -1,16 +1,13 @@
-# Michael Brave
 <img src="https://raw.githubusercontent.com/michaelbrave/michaelbrave/master/gh-header-image-MikeBrave.png" alt="banner that says Mike Brave - Developer">
   
 👋 Hello there 👋
 
-    🔧 I’m currently working on - a simple game engine from scratch
-    🌱 I’m currently learning - C++ and Data Oriented Design
-    📖 I'm currently reading - Procedural Storytelling in Game Design
-    🧑‍🤝‍🧑 I’m looking to collaborate on - a future game jam
-    🙋‍♂️ I’m looking for help with - getting started with open source contributions
-    💬 Ask me about - anything, but I'm particularly excited about swift in non apple settings
-    ✨ Fun fact - lemonaide is the best
-    🤝 I hope we can be friends 
+    ⚙️ I’m working on - a simple game engine using SDL
+    🎓 I’m learning - C++ and Data Oriented Design
+    📖 I'm reading - Procedural Storytelling in Game Design by Tanya X. Short & Tarn Adams
+    🙋‍♂️ Please teach me about - how to start with open source contributions
+    🤩 I'm excited about -  the potential of Swift as a multi purpose and multi platform language 
+    ✨ Fun fact - I'm on a lifelong quest to find the best lemonaide
 
 <p align="center">
 	<a href="https://github.com/michaelbrave"><img src="https://img.shields.io/github/followers/michaelbrave.svg?label=GitHub&style=social" alt="GitHub"></a>
