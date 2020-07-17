@@ -5,8 +5,8 @@
     ⚙️ I’m working on - a simple game engine using SDL
     🎓 I’m learning - C++ and Data Oriented Design
     📖 I'm reading - Procedural Storytelling in Game Design by Tanya X. Short & Tarn Adams
-    🙋‍♂️ Please teach me about - how to start with open source contributions
-    🤩 I'm excited about -  the potential of Swift as a multi purpose and multi platform language 
+    🙋‍♂️ Please teach me - how to start with open source contributions
+    🤩 I'm excited by -  the potential of Swift as a multi purpose and multi platform language 
     ✨ Fun fact - I'm on a lifelong quest to find the best lemonaide
 
 <p align="center">
