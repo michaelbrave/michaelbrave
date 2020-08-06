@@ -16,23 +16,14 @@ banner template
 
 ### Contact: 
 <p align="left">
-	[<img src="https://img.shields.io/github/followers/michaelbrave.svg?label=GitHub&style=social" alt="GitHub">]([github])
-	[<img src="https://img.shields.io/twitter/follow/somebravedude?label=Twitter&style=social" alt="Twitter">]([twitter])
-	[<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">]([linkedin])
-    [<img src="https://img.shields.io/badge/Email-michaelbrave@outlook.com-lightgrey" alt="Email">]([email])
-    [<img src="https://img.shields.io/badge/Website-https%3A%2F%2Fmichaelbrave.github.io%2F-informational" alt="Website">]([website])
+	<a href = [github]><img src="https://img.shields.io/github/followers/michaelbrave.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href = [twitter]><img src="https://img.shields.io/twitter/follow/somebravedude?label=Twitter&style=social" alt="Twitter"></a>
+	<a href = [linkedin]><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+    <a href = [email]><img src="https://img.shields.io/badge/Email-michaelbrave@outlook.com-lightgrey" alt="Email"></a>
+    <a href = [website]><img src="https://img.shields.io/badge/Website-https%3A%2F%2Fmichaelbrave.github.io%2F-informational" alt="Website"></a>
 </p>
 
 <br />
-<br />
-
-### Latest Blog Posts
-<!--
-credit for this section goes to https://github.com/gautamkrishnar/blog-post-workflow
--->
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 ### Github Stats
 <!--
