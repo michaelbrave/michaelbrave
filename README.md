@@ -25,4 +25,4 @@ banner template
 <!--
 credit for this section goes to https://github.com/anuraghazra/github-readme-stats 
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbrave)][github]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbrave)
