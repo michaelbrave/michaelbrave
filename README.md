@@ -3,8 +3,6 @@ banner template
 <img src="https://raw.githubusercontent.com/michaelbrave/michaelbrave/master/gh-header-image-MikeBrave.png" alt="banner that says Mike Brave - Developer">
 -->
 
-<br />
-
 ### 👋 Hello there - I'm Mike, I make Apps and Games 👋
 
 - ⚙️ I’m working on - a simple game engine using SDL
@@ -16,14 +14,12 @@ banner template
 
 ### Contact: 
 <p align="left">
-	<a href = [github]><img src="https://img.shields.io/github/followers/michaelbrave.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href = [twitter]><img src="https://img.shields.io/twitter/follow/somebravedude?label=Twitter&style=social" alt="Twitter"></a>
-	<a href = [linkedin]><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-    <a href = [email]><img src="https://img.shields.io/badge/Email-michaelbrave@outlook.com-lightgrey" alt="Email"></a>
-    <a href = [website]><img src="https://img.shields.io/badge/Website-https%3A%2F%2Fmichaelbrave.github.io%2F-informational" alt="Website"></a>
+	[github][<img src="https://img.shields.io/github/followers/michaelbrave.svg?label=GitHub&style=social" alt="GitHub">]
+	[twitter](<img src="https://img.shields.io/twitter/follow/somebravedude?label=Twitter&style=social" alt="Twitter">)
+	[<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">][linkedin]
+    <a href = "[email]"><img src="https://img.shields.io/badge/Email-michaelbrave@outlook.com-lightgrey" alt="Email"></a>
+    <a href = "https://michaelbrave.github.io/"><img src="https://img.shields.io/badge/Website-https%3A%2F%2Fmichaelbrave.github.io%2F-informational" alt="Website"></a>
 </p>
-
-<br />
 
 ### Github Stats
 <!--
