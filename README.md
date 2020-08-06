@@ -16,11 +16,11 @@ banner template
 
 ### Contact: 
 <p align="left">
-	[<img src="https://img.shields.io/github/followers/michaelbrave.svg?label=GitHub&style=social" alt="GitHub">][github]
-	[<img src="https://img.shields.io/twitter/follow/somebravedude?label=Twitter&style=social" alt="Twitter">][twitter]
-	[<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">][linkedin]
-    [<img src="https://img.shields.io/badge/Email-michaelbrave@outlook.com-lightgrey" alt="Email">][email]
-    [<img src="https://img.shields.io/badge/Website-https%3A%2F%2Fmichaelbrave.github.io%2F-informational" alt="Website">][website]
+	[<img src="https://img.shields.io/github/followers/michaelbrave.svg?label=GitHub&style=social" alt="GitHub">]([github])
+	[<img src="https://img.shields.io/twitter/follow/somebravedude?label=Twitter&style=social" alt="Twitter">]([twitter])
+	[<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">]([linkedin])
+    [<img src="https://img.shields.io/badge/Email-michaelbrave@outlook.com-lightgrey" alt="Email">]([email])
+    [<img src="https://img.shields.io/badge/Website-https%3A%2F%2Fmichaelbrave.github.io%2F-informational" alt="Website">]([website])
 </p>
 
 <br />
