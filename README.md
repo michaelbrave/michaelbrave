@@ -2,6 +2,13 @@
 banner template
 <img src="https://raw.githubusercontent.com/michaelbrave/michaelbrave/master/gh-header-image-MikeBrave.png" alt="banner that says Mike Brave - Developer">
 -->
+<head>
+	<meta name="description" content="_" />
+	<meta name="title" property="og:title" content="_" />
+	<meta property="og:type" content="_" />
+	<meta name="image" property="og:image" content="_" />
+	<meta name="description" property="og:description" content="_" /><meta name="author" content="_" />
+</head>
 
 ### 👋 Hello there - I'm Mike, I make Apps and Games 👋
 
