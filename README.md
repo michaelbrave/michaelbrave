@@ -9,7 +9,7 @@ banner template
 	<meta name="image" property="og:image" content="https://i.imgur.com/zNMxBcG.png" />
 	<meta name="description" property="og:description" content="Michael Brave's Github" />
 	<meta name="author" content="Michael Brave" />
-</head>
+</head>  
 
 ### 👋 Hello there - I'm Mike, I make Apps and Games 👋
 
