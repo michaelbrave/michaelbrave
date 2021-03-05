@@ -5,12 +5,12 @@ banner template
 
 ### 👋 Hello there - I'm Mike, I make Apps and Games 👋
 
-- ⚙️ I’m working on - a simple game engine using SDL
+- ⚙️ I’m working on - Making a monster catching game in Roblox
 - 📖 I'm reading - Procedural Storytelling in Game Design by Tanya X. Short & Tarn Adams
-- 🎓 I’m learning - C++ and Data Oriented Design
-- 🙋‍♂️ I want to learn - how to begin making open source contributions
-- 🤩 I'm excited by -  the potential of Swift as a multi purpose and multi platform language 
-- ✨ Fun fact - I'm on a lifelong quest to find/create the perfect lemonaide
+- 🎓 I’m learning - how to make webapps using Springboot and React
+- 🙋‍♂️ I want to learn - how to make good open source contributions
+- 🤩 I'm excited by - the potential of Swift as a multi purpose and multi platform language 
+- ✨ Fun fact - I'm on a lifelong quest to find/create the perfect lemonade
 
 ### Contact: 
 <p align="left">
