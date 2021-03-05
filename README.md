@@ -6,7 +6,7 @@ banner template
 	<meta name="description" content="Github of Michael Brave" />
 	<meta name="title" property="og:title" content="Github/Michaelbrave" />
 	<meta property="og:type" content="Github" />
-	<meta name="image" property="og:image" content="_" />
+	<meta name="image" property="og:image" content="https://imgur.com/a/w6tf1Oa" />
 	<meta name="description" property="og:description" content="Michael Brave's Github" />
 	<meta name="author" content="Michael Brave" />
 </head>
