@@ -28,7 +28,9 @@ banner template
     <a href = "https://michaelbrave.github.io/"><img src="https://img.shields.io/badge/Website-https%3A%2F%2Fmichaelbrave.github.io%2F-informational" alt="Website"></a>
 </p>
 
+<!--
 ### Github Stats
+-->
 <!--
 credit for this section goes to https://github.com/anuraghazra/github-readme-stats 
 -->
