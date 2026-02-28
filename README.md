@@ -15,13 +15,13 @@ banner template
 // it didn't work
 -->
 
-### 👋 Hello there - I'm Mike, I make Apps and Games 👋
+### 👋 Hello there - I'm Mike, I make Art, Software, Games and Tools 👋
 
-- ⚙️ I’m working on - Making a monster catching game in Roblox
+- ⚙️ I’m working on - Building my own generative AI model and data pipelines to support it
 - 📖 I'm reading - How to Design Programs by Matthias Felleisen, Robert Findler, Matthew Flatt, and Shriram Krishnamurthi
-- 🎓 I’m learning - how to make Blazor apps with C#
-- 🙋‍♂️ I want to learn - how to make good open source contributions
-- 🤩 I'm excited by - the potential of AI to aid in media creation and as a creative tool or assistant 
+- 🎓 I’m learning - how to raise worms for my garden
+- 🙋‍♂️ I want to learn - how to leverage financial tools to make a better world
+- 🤩 I'm excited by - the potential for a solarpunk future, if we choose it
 - ✨ Fun fact - I'm on a lifelong quest to find/create the perfect lemonade
 
 ### Contact: 
